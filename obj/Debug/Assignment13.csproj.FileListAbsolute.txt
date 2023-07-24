@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\bin\Debug\Assignment13.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\bin\Debug\Assignment13.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\bin\Debug\Assignment13.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\obj\Debug\Assignment13.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\Date22\Assignment13\Assignment13\obj\Debug\Assignment13.pdb
